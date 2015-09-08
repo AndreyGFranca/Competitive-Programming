@@ -1,4 +1,4 @@
-/* Solução exercicio https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
+/* SoluÃ§Ã£o exercicio https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
 Andrey.*/
 
 #include <iostream>
