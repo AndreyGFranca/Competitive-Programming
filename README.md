@@ -2,4 +2,4 @@
 Respostas URI Online Judge
 -------------
 
-Minhas soluções.
+Minhas soluções para os problemas da plataforma URI
