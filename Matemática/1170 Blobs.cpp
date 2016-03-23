@@ -5,7 +5,8 @@ int main (){
 	float C = 0;
 
 	std::cin >> N;
-	while (i <= N){
+	while (i < N){
+	    i++;
         dias = 0;
 		std::cin >> C;
 		if (C <= 0|| C >1000) return 0;
